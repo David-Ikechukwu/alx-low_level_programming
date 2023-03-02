@@ -1,3 +1,13 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * Return: 0
+ */
+
+char *infinite_add(char *n1, char *n2, char *r, int size_r);
+
+{
 	int val1 - 0, val2 = 0, temp_tot = 0;
 
 	while (*(n1 + i) != '\0')
